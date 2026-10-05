@@ -1,0 +1,4761 @@
+{
+  "name": "⭐ Flow DM | RAGE:MP",
+  "id": "1525553575395065886",
+  "created_at": "2026-07-11T17:25:15.789Z",
+  "roles": [
+    {
+      "name": "Бот",
+      "id": "1525553575629951009",
+      "color": 10192486,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8864258447638527",
+      "position": 47
+    },
+    {
+      "name": "Бот",
+      "id": "1532465028228448429",
+      "color": 10192486,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8864258447638527",
+      "position": 46
+    },
+    {
+      "name": "Flow DM | DTB",
+      "id": "1534558668534583363",
+      "color": 8886702,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "1374675086583",
+      "position": 45
+    },
+    {
+      "name": "Flow DM | Server",
+      "id": "1527365473287667774",
+      "color": 7640178,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "216064",
+      "position": 44
+    },
+    {
+      "name": "Flow DM | Admin Bots",
+      "id": "1527356399384789195",
+      "color": 8886702,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8",
+      "position": 43
+    },
+    {
+      "name": "Flow DM | Bot",
+      "id": "1526111358624731239",
+      "color": 13927485,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "980937982",
+      "position": 42
+    },
+    {
+      "name": "Создатель проекта",
+      "id": "1532465024868679800",
+      "color": 11127295,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8864258447638527",
+      "position": 41
+    },
+    {
+      "name": "Developer",
+      "id": "1532465014580187299",
+      "color": 12829635,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8864258447638527",
+      "position": 40
+    },
+    {
+      "name": "Руководство Проекта",
+      "id": "1532465021244932147",
+      "color": 5025232,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8864258447638527",
+      "position": 39
+    },
+    {
+      "name": "Developer",
+      "id": "1532465007344877710",
+      "color": 0,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8282590594588361",
+      "position": 38
+    },
+    {
+      "name": "Команда проекта",
+      "id": "1535797734852927520",
+      "color": 8886702,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8836760456392535",
+      "position": 37
+    },
+    {
+      "name": "Спонсор",
+      "id": "1532465011128012851",
+      "color": 9854847,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 36
+    },
+    {
+      "name": "Head PR Manager",
+      "id": "1532465004480172253",
+      "color": 3577974,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "7359031860784961",
+      "position": 35
+    },
+    {
+      "name": "Head Discord Moderator",
+      "id": "1532464984318017636",
+      "color": 10382335,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 34
+    },
+    {
+      "name": "Главный Администратор",
+      "id": "1532465001254748170",
+      "color": 11156283,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8846657134788545",
+      "position": 33
+    },
+    {
+      "name": "Chief Cheat Hunter",
+      "id": "1532639337991110746",
+      "color": 7640178,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "268435456",
+      "position": 32
+    },
+    {
+      "name": "Заместитель ГА",
+      "id": "1532464997924606093",
+      "color": 9467253,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8837859955441617",
+      "position": 31
+    },
+    {
+      "name": "PR Manager",
+      "id": "1532464981105442976",
+      "color": 8935142,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "67108864",
+      "position": 30
+    },
+    {
+      "name": "Discord Moderator",
+      "id": "1532464971034656879",
+      "color": 3577974,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "6304572011708101",
+      "position": 29
+    },
+    {
+      "name": "Curator",
+      "id": "1532464994736804120",
+      "color": 11127295,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 28
+    },
+    {
+      "name": "Cur Admin",
+      "id": "1532465017713066126",
+      "color": 1315603,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "268435456",
+      "position": 27
+    },
+    {
+      "name": "Curator Evenets",
+      "id": "1532639190095888536",
+      "color": 4276545,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 26
+    },
+    {
+      "name": "Cur Fam/Frac",
+      "id": "1532464990651547662",
+      "color": 8886702,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 25
+    },
+    {
+      "name": "Помощник организатора FWF",
+      "id": "1536080071037681726",
+      "color": 13927485,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "268435456",
+      "position": 24
+    },
+    {
+      "name": "Cheat Hunter",
+      "id": "1532464977913446400",
+      "color": 9854847,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8283328813187009",
+      "position": 23
+    },
+    {
+      "name": "Senior Administrator",
+      "id": "1532464987484983356",
+      "color": 13814496,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 22
+    },
+    {
+      "name": "PR Assistant",
+      "id": "1532464974432305173",
+      "color": 10382335,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 21
+    },
+    {
+      "name": "Помог проекту",
+      "id": "1534231417100435557",
+      "color": 11127295,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 20
+    },
+    {
+      "name": "Администратор",
+      "id": "1532464967465304176",
+      "color": 13927485,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "8251295868729217",
+      "position": 19
+    },
+    {
+      "name": "Покупная Администрация",
+      "id": "1535416797199597648",
+      "color": 65459,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 18
+    },
+    {
+      "name": "Helper",
+      "id": "1532464964328100031",
+      "color": 14481151,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "5911526418416641",
+      "position": 17
+    },
+    {
+      "name": "Media",
+      "id": "1532464936775848026",
+      "color": 6946654,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 16
+    },
+    {
+      "name": "Лидер семьи FWF",
+      "id": "1536079497000910889",
+      "color": 4159156,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 15
+    },
+    {
+      "name": "Лидер",
+      "id": "1532464960444043315",
+      "color": 10070709,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 14
+    },
+    {
+      "name": "Ballas",
+      "id": "1532464957231468764",
+      "color": 16777215,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 13
+    },
+    {
+      "name": "Families",
+      "id": "1532464953867636877",
+      "color": 3577974,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 12
+    },
+    {
+      "name": "Bloods",
+      "id": "1532464950294085642",
+      "color": 11156283,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 11
+    },
+    {
+      "name": "Vagos",
+      "id": "1532464946665885747",
+      "color": 13927485,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 10
+    },
+    {
+      "name": "Marabunta",
+      "id": "1532464943461306551",
+      "color": 364716,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 9
+    },
+    {
+      "name": "FIB",
+      "id": "1532464940420435998",
+      "color": 3881787,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "1024",
+      "position": 8
+    },
+    {
+      "name": "Flow DM",
+      "id": "1532464933361684702",
+      "color": 13927485,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "67175488",
+      "position": 7
+    },
+    {
+      "name": "Server Booster",
+      "id": "1525761274322092144",
+      "color": 16023551,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "2222085186637377",
+      "position": 6
+    },
+    {
+      "name": "muted",
+      "id": "1532464929792069653",
+      "color": 4605510,
+      "hoist": true,
+      "mentionable": true,
+      "permissions": "0",
+      "position": 5
+    },
+    {
+      "name": "биг босс",
+      "id": "1536873593655402636",
+      "color": 3447003,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 4
+    },
+    {
+      "name": "MultiBot",
+      "id": "1537147272205176965",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "364870364415",
+      "position": 3
+    },
+    {
+      "name": "Заместитель \"биг босса\"",
+      "id": "1537198135770742886",
+      "color": 11027200,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 2
+    },
+    {
+      "name": "Flery фанат Nevera",
+      "id": "1537221889129324584",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0",
+      "position": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "📌 Обновления & Инфо",
+      "id": "1534361027544617122",
+      "position": 0,
+      "overwrites": [
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "1088",
+          "deny": "2048"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "📁︱нᴏʙᴏᴄᴛи",
+          "id": "1534361404084326430",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1320480514855145484",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            },
+            {
+              "id": "1532465014580187299",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "❓︱как-зайти",
+          "id": "1534361409528270848",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "❓︱не-заходит",
+          "id": "1534957228354834513",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "📢︱ᴄhᴀngᴇ-lᴏg",
+          "id": "1534361414691454986",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "1025",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1088",
+              "deny": "2048"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "купить-dp",
+          "id": "1534361420093849620",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1088",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "66560",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "купить-money",
+          "id": "1534361425068425336",
+          "type": "0",
+          "position": 5,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1088",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "66560",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "сбросить-пароль",
+          "id": "1534361430457978991",
+          "type": "0",
+          "position": 6,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1088",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "66560",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "поддержать-проект",
+          "id": "1534361436266954783",
+          "type": "0",
+          "position": 7,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1088",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "66560",
+              "deny": "2048"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎮 Игровые новости",
+      "id": "1534361034884649063",
+      "position": 1,
+      "overwrites": [],
+      "channels": [
+        {
+          "name": "📁︱новости",
+          "id": "1534361441023295549",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": []
+        },
+        {
+          "name": "📁︱мᴇᴩᴏᴨᴩияᴛия",
+          "id": "1534361447046320158",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": []
+        },
+        {
+          "name": "📝︱правила",
+          "id": "1534361451941331085",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": []
+        }
+      ]
+    },
+    {
+      "name": "✉️ Заявки",
+      "id": "1534361046515585065",
+      "position": 2,
+      "overwrites": [
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "media-отчет-11",
+          "id": "1535628437774143533",
+          "type": "0",
+          "position": 0,
+          "topic": "Media отчет #11 от <@1205867290046763008>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1205867290046763008",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-13",
+          "id": "1535705035483127878",
+          "type": "0",
+          "position": 1,
+          "topic": "Media отчет #13 от <@1522416557177966775>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1522416557177966775",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-14",
+          "id": "1535790255314178140",
+          "type": "0",
+          "position": 2,
+          "topic": "Media отчет #14 от <@869997225206480896>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "869997225206480896",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-15",
+          "id": "1535867197690224641",
+          "type": "0",
+          "position": 3,
+          "topic": "Media отчет #15 от <@1191991928540102736>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1191991928540102736",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-20",
+          "id": "1536393555319193690",
+          "type": "0",
+          "position": 4,
+          "topic": "Media запрос #20 от <@1439172663099523103>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1439172663099523103",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-24",
+          "id": "1536411394163867668",
+          "type": "0",
+          "position": 5,
+          "topic": "Media отчет #24 от <@906872043436392468>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "906872043436392468",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-24",
+          "id": "1536516654693883914",
+          "type": "0",
+          "position": 6,
+          "topic": "Media запрос #24 от <@1135302359069773925>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1135302359069773925",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-27",
+          "id": "1536815386702385252",
+          "type": "0",
+          "position": 7,
+          "topic": "Media запрос #27 от <@1135302359069773925>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1135302359069773925",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-26",
+          "id": "1536830656795906130",
+          "type": "0",
+          "position": 8,
+          "topic": "Media отчет #26 от <@1185503532242174034>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1185503532242174034",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-28",
+          "id": "1536847338843414608",
+          "type": "0",
+          "position": 9,
+          "topic": "Media запрос #28 от <@1168904681863528565>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1168904681863528565",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-30",
+          "id": "1536923845557092362",
+          "type": "0",
+          "position": 10,
+          "topic": "Media запрос #30 от <@1381916600323674172>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1381916600323674172",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-27",
+          "id": "1536943327818158141",
+          "type": "0",
+          "position": 11,
+          "topic": "Media отчет #27 от <@716322163421872258>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "716322163421872258",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-28",
+          "id": "1537002753035997217",
+          "type": "0",
+          "position": 12,
+          "topic": "Media отчет #28 от <@1397953530098225235>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1397953530098225235",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-30",
+          "id": "1537023572541833329",
+          "type": "0",
+          "position": 13,
+          "topic": "Media отчет #30 от <@1185503532242174034>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1185503532242174034",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-31",
+          "id": "1537046453090787429",
+          "type": "0",
+          "position": 14,
+          "topic": "Media запрос #31 от <@1412869259117203577>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1412869259117203577",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-32",
+          "id": "1537051574881357987",
+          "type": "0",
+          "position": 15,
+          "topic": "Media отчет #32 от <@890191085912064060>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "890191085912064060",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-32",
+          "id": "1537062391685193839",
+          "type": "0",
+          "position": 16,
+          "topic": "Media запрос #32 от <@1272403478668644400>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1272403478668644400",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-33",
+          "id": "1537070832629579799",
+          "type": "0",
+          "position": 17,
+          "topic": "Media отчет #33 от <@1483116550960451596>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1483116550960451596",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-запрос-33",
+          "id": "1537079184772563054",
+          "type": "0",
+          "position": 18,
+          "topic": "Media запрос #33 от <@1176412712088113213>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1176412712088113213",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-34",
+          "id": "1537092858140557373",
+          "type": "0",
+          "position": 19,
+          "topic": "Media отчет #34 от <@1439172663099523103>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1439172663099523103",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-35",
+          "id": "1537121365696716880",
+          "type": "0",
+          "position": 20,
+          "topic": "Media отчет #35 от <@1176412712088113213>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1176412712088113213",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-37",
+          "id": "1537130868496142378",
+          "type": "0",
+          "position": 21,
+          "topic": "Media отчет #37 от <@1532087730803052738>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532087730803052738",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-38",
+          "id": "1537177106021220402",
+          "type": "0",
+          "position": 22,
+          "topic": "Media отчет #38 от <@1495149471137271878>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1495149471137271878",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-39",
+          "id": "1537180948049694861",
+          "type": "0",
+          "position": 23,
+          "topic": "Media отчет #39 от <@869997225206480896>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "869997225206480896",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "media-отчет-40",
+          "id": "1537198707450192024",
+          "type": "0",
+          "position": 24,
+          "topic": "Media отчет #40 от <@1168904681863528565>",
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1168904681863528565",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "👥 Community",
+      "id": "1534361142116487178",
+      "position": 3,
+      "overwrites": [
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ],
+      "channels": [
+        {
+          "name": "⚜️︱вᴏйнᴀ-ᴄᴇʍᴇй",
+          "id": "1534361580681170975",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        },
+        {
+          "name": "⚜️︱ᴄᴀᴩᴛurᴇ",
+          "id": "1534361585659678760",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1320480514855145484",
+              "type": "role",
+              "allow": "0",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        },
+        {
+          "name": "⚜️︱mᴇdiᴀ",
+          "id": "1534361591762522193",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        },
+        {
+          "name": "⚜️︱givᴇᴀwᴀys",
+          "id": "1534361598863474860",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        },
+        {
+          "name": "⚜️︱запросы-откаты",
+          "id": "1536439500585181254",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "💬 Текстовые каналы",
+      "id": "1534361149330685995",
+      "position": 4,
+      "overwrites": [
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "3136",
+          "deny": "163840"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "🔔︱общий-чᴀᴛ",
+          "id": "1534361604228120678",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 15,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔔︱предложения-и-улучшения",
+          "id": "1534361608980136088",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 7200,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "3136",
+              "deny": "163840"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔔︱предложения-по-правилам",
+          "id": "1536434353285111818",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 7200,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "3136",
+              "deny": "163840"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🗽Раздел амнистий",
+      "id": "1537108751805456454",
+      "position": 5,
+      "overwrites": [
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1535797734852927520",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532639337991110746",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464977913446400",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464971034656879",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1535416797199597648",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465004480172253",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465017713066126",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1527365473287667774",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1525761274322092144",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464981105442976",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464936775848026",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464997924606093",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464984318017636",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464987484983356",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1534558668534583363",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464964328100031",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465001254748170",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464994736804120",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464960444043315",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465011128012851",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532464967465304176",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ],
+      "channels": [
+        {
+          "name": "📃︱заявки-на-амнистию",
+          "id": "1537109101283246121",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 3600,
+          "overwrites": [
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "131072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "52224",
+              "deny": "131072"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        },
+        {
+          "name": "📃︱заявки-на-обжалование",
+          "id": "1537109156601798666",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 3600,
+          "overwrites": [
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "131072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "52224",
+              "deny": "131072"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "3072"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔐Media",
+      "id": "1534361165025771570",
+      "position": 6,
+      "overwrites": [
+        {
+          "id": "1532464981105442976",
+          "type": "role",
+          "allow": "3149312",
+          "deny": "0"
+        },
+        {
+          "id": "1532464997924606093",
+          "type": "role",
+          "allow": "562949956570624",
+          "deny": "0"
+        },
+        {
+          "id": "1532464974432305173",
+          "type": "role",
+          "allow": "3149312",
+          "deny": "0"
+        },
+        {
+          "id": "1532464936775848026",
+          "type": "role",
+          "allow": "3278336",
+          "deny": "0"
+        },
+        {
+          "id": "1532465001254748170",
+          "type": "role",
+          "allow": "563396633570816",
+          "deny": "0"
+        },
+        {
+          "id": "1532465004480172253",
+          "type": "role",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "🔐║Media Voice 1",
+          "id": "1534361768271548607",
+          "type": "2",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3278336",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "чат-с-куратором",
+          "id": "1534361614130745385",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3278336",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐║Media Voice 2",
+          "id": "1534361773141135562",
+          "type": "2",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3278336",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐║медиа-новости",
+          "id": "1534361619042271343",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3278336",
+              "deny": "2048"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐╚Media Cur Voice",
+          "id": "1534361777884889128",
+          "type": "2",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3278336",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐║медиа-чат",
+          "id": "1534361623983296523",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3280384",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐║медиа-запросы-или-же-отчеты",
+          "id": "1534361629020651632",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3280384",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔐║медиа-жалобы",
+          "id": "1534361634380709920",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464981105442976",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "562949956570624",
+              "deny": "0"
+            },
+            {
+              "id": "1532464936775848026",
+              "type": "role",
+              "allow": "3280384",
+              "deny": "0"
+            },
+            {
+              "id": "1532464974432305173",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "563396633570816",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leader of fraction",
+      "id": "1534361268956430346",
+      "position": 7,
+      "overwrites": [
+        {
+          "id": "1532464990651547662",
+          "type": "role",
+          "allow": "2885496472006209",
+          "deny": "0"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1532464960444043315",
+          "type": "role",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ],
+      "channels": [
+        {
+          "name": "🔰╠Leader Voice 1",
+          "id": "1534361782443966595",
+          "type": "2",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔰╠leader-chat",
+          "id": "1534361646066307142",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464990651547662",
+              "type": "role",
+              "allow": "2885496472006209",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔰╠Leader Voice 2",
+          "id": "1534361787145785624",
+          "type": "2",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔰╠leader-achievements",
+          "id": "1534361651111788674",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464990651547662",
+              "type": "role",
+              "allow": "2885496472006209",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔰╚Leader Собрание",
+          "id": "1534361791700664482",
+          "type": "2",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "3146240",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔰╔leader-news",
+          "id": "1534361639648890931",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "2049",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "🔰╠leader-points",
+          "id": "1534361656086364350",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "🔰╠leader-откаты",
+          "id": "1535239262323343430",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "2048",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464960444043315",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔊 Голосовые каналы",
+      "id": "1534361280348029100",
+      "position": 8,
+      "overwrites": [
+        {
+          "id": "1532464933361684702",
+          "type": "role",
+          "allow": "36701696",
+          "deny": "1"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "Ожидание",
+          "id": "1534361796255944774",
+          "type": "2",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "35653120"
+            }
+          ]
+        },
+        {
+          "name": "🔊 Chat Room #1",
+          "id": "1534361800756433058",
+          "type": "2",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 Chat Room #2",
+          "id": "1534361805974143006",
+          "type": "2",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 Chat Room #5",
+          "id": "1534361819907493911",
+          "type": "2",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 Chat Room #3",
+          "id": "1534361810457596014",
+          "type": "2",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 Chat Room #4",
+          "id": "1534361815147090042",
+          "type": "2",
+          "position": 5,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "36701696",
+              "deny": "1"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Админские каналы",
+      "id": "1534361296190050475",
+      "position": 9,
+      "overwrites": [
+        {
+          "id": "1532464967465304176",
+          "type": "role",
+          "allow": "3149312",
+          "deny": "0"
+        },
+        {
+          "id": "1532464964328100031",
+          "type": "role",
+          "allow": "3149312",
+          "deny": "0"
+        },
+        {
+          "id": "1532464977913446400",
+          "type": "role",
+          "allow": "274881054208",
+          "deny": "0"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1532464987484983356",
+          "type": "role",
+          "allow": "3149312",
+          "deny": "0"
+        }
+      ],
+      "channels": [
+        {
+          "name": "📢⌜новости",
+          "id": "1534361661589291098",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "274877907968",
+              "deny": "2048"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "2048",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "274877907968",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274877907968",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "274877907968",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "🔊 ⌜Собрание",
+          "id": "1534361824839995533",
+          "type": "2",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Обзвон на хелперку #1",
+          "id": "1535205990902005831",
+          "type": "2",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🗒️┆регламент-младшей-администрации",
+          "id": "1534682102052946073",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1535416797199597648",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "6755468160724032",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "1024",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "♾️┆медиа-отчеты-или-запросы",
+          "id": "1534361679435923678",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Обзвон на хелперку #2",
+          "id": "1535211195743735818",
+          "type": "2",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "3147280"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Обзвон на Лидера #1",
+          "id": "1534570915629760744",
+          "type": "2",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "3147280"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🃏┆команды",
+          "id": "1534361684918145115",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Check Room #1",
+          "id": "1534361852878917704",
+          "type": "2",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "32507392",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🎴┆варны-аппы",
+          "id": "1534361690018156564",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "3147264",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3147264",
+              "deny": "2048"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3147264",
+              "deny": "2048"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "2048",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3147264",
+              "deny": "2048"
+            }
+          ]
+        },
+        {
+          "name": "🧘┆отпуск",
+          "id": "1534361701028200642",
+          "type": "0",
+          "position": 5,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Admin Room #3",
+          "id": "1534361848495866009",
+          "type": "2",
+          "position": 5,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "‼️⌞запрос-наказаний",
+          "id": "1535227208531050516",
+          "type": "0",
+          "position": 6,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Admin Room #2",
+          "id": "1534361843944919262",
+          "type": "2",
+          "position": 6,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🛡️┆команды-для-модерации-дискорда",
+          "id": "1534361718644408360",
+          "type": "0",
+          "position": 7,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊 ┆Check Room #2",
+          "id": "1534361857807220827",
+          "type": "2",
+          "position": 7,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "32507392",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "receipts",
+          "id": "1534361734838616234",
+          "type": "0",
+          "position": 8,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881053184",
+              "deny": "1024"
+            },
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 ⌞Check Room #3",
+          "id": "1534361862592794815",
+          "type": "2",
+          "position": 8,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "66062080",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊 ┆Admin Room #1",
+          "id": "1534361838974669030",
+          "type": "2",
+          "position": 9,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "3147264",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🗨┆чат-high",
+          "id": "1534361724113785023",
+          "type": "0",
+          "position": 9,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532639337991110746",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465021244932147",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3148288",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🗨⌞чат",
+          "id": "1534361729537151076",
+          "type": "0",
+          "position": 10,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "🔊 ┆Обзвон на лидерку",
+          "id": "1534361829508251778",
+          "type": "2",
+          "position": 10,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "server-logs",
+          "id": "1534361745244557363",
+          "type": "0",
+          "position": 11,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "🔊┆ Обзвон на хелпера",
+          "id": "1534361834105340055",
+          "type": "2",
+          "position": 11,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "35652096",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "ac-flags",
+          "id": "1534361751158657185",
+          "type": "0",
+          "position": 12,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "274881054208",
+              "deny": "0"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "3149312",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "настройка-сервера-дс",
+          "id": "1534361756707590206",
+          "type": "0",
+          "position": 13,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "game-log",
+          "id": "1534361739892625468",
+          "type": "0",
+          "position": 14,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "ds-server-logs",
+          "id": "1534361763028664410",
+          "type": "0",
+          "position": 15,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464964328100031",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464967465304176",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464977913446400",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532464987484983356",
+              "type": "role",
+              "allow": "2048",
+              "deny": "1024"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "каналы бустеров",
+      "id": "1535016327318868040",
+      "position": 10,
+      "overwrites": [
+        {
+          "id": "1525761274322092144",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465017713066126",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1532465007344877710",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1532465011128012851",
+          "type": "role",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ],
+      "channels": [
+        {
+          "name": "розыгрыши-для-бустеров",
+          "id": "1535030330589970653",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525761274322092144",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1532465017713066126",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1049600"
+            }
+          ]
+        },
+        {
+          "name": "общение",
+          "id": "1535030400743768095",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525761274322092144",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1532465017713066126",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1049600"
+            },
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1049600",
+              "deny": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔫 FWF / Family War Flow",
+      "id": "1535653887862775818",
+      "position": 11,
+      "overwrites": [
+        {
+          "id": "1525553575395065886",
+          "type": "role",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ],
+      "channels": [
+        {
+          "name": "регистрация-на-турнир",
+          "id": "1535653995882872854",
+          "type": "0",
+          "position": 0,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532464933361684702",
+              "type": "role",
+              "allow": "34359790592",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "274877910032"
+            }
+          ]
+        },
+        {
+          "name": "зареганные-команды",
+          "id": "1535654097015803984",
+          "type": "0",
+          "position": 1,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532639337991110746",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1536080071037681726",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "3072",
+              "deny": "0"
+            },
+            {
+              "id": "1532639190095888536",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            }
+          ]
+        },
+        {
+          "name": "баллы-команд",
+          "id": "1536082288301969498",
+          "type": "0",
+          "position": 2,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1532639337991110746",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1536080071037681726",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1534558668534583363",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1527365473287667774",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            }
+          ]
+        },
+        {
+          "name": "новости-fwf",
+          "id": "1536082505101348895",
+          "type": "0",
+          "position": 3,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1527365473287667774",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1536080071037681726",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532639337991110746",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1534558668534583363",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1536079497000910889",
+              "type": "role",
+              "allow": "1024",
+              "deny": "6144"
+            }
+          ]
+        },
+        {
+          "name": "расписание-мп",
+          "id": "1536082985294758068",
+          "type": "0",
+          "position": 4,
+          "topic": null,
+          "nsfw": false,
+          "slowmode_delay": 0,
+          "overwrites": [
+            {
+              "id": "1525553575395065886",
+              "type": "role",
+              "allow": "0",
+              "deny": "1024"
+            },
+            {
+              "id": "1527365473287667774",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532639337991110746",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1536080071037681726",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532464997924606093",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1535797734852927520",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465007344877710",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1534558668534583363",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465004480172253",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465001254748170",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1532465011128012851",
+              "type": "role",
+              "allow": "1024",
+              "deny": "0"
+            },
+            {
+              "id": "1536079497000910889",
+              "type": "role",
+              "allow": "1024",
+              "deny": "6144"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "text_channels": [
+    {
+      "name": "rules-discord",
+      "id": "1534361395968086086",
+      "topic": null,
+      "nsfw": false,
+      "slowmode_delay": 0,
+      "position": 1,
+      "overwrites": []
+    },
+    {
+      "name": "moderator-only",
+      "id": "1534361399789228223",
+      "topic": null,
+      "nsfw": false,
+      "slowmode_delay": 0,
+      "position": 2,
+      "overwrites": []
+    },
+    {
+      "name": "welcome",
+      "id": "1534361392147071058",
+      "topic": null,
+      "nsfw": false,
+      "slowmode_delay": 0,
+      "position": 0,
+      "overwrites": []
+    }
+  ],
+  "voice_channels": [],
+  "emojis": [
+    {
+      "name": "P67emoji",
+      "id": "1536905243038720030",
+      "animated": false,
+      "url": "https://cdn.discordapp.com/emojis/1536905243038720030.png"
+    }
+  ]
+}
